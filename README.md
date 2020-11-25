@@ -1,5 +1,5 @@
-BERT large model (uncased) for Sentence Embeddings in Russian language.
-The model is described in this article](https://habr.com/ru/company/sberdevices/blog/527576/)
+# BERT large model (uncased) for Sentence Embeddings in Russian language.
+The model is described [in this article](https://habr.com/ru/company/sberdevices/blog/527576/)  
 For better quality, use mean token embeddings.
 
 ## Usage (HuggingFace Models Repository)
