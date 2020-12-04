@@ -1,5 +1,4 @@
 {
-  "_name_or_path": "./cased_L-24_H-1024_A-16_pytorch",
   "architectures": [
     "BertModel"
   ],
