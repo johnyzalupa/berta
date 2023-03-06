@@ -49,4 +49,5 @@ sentence_embeddings = mean_pooling(model_output, encoded_input['attention_mask']
 
 # Authors
 + [SberDevices](https://sberdevices.ru/) Team.
-+ by Denis Antykhov: [Github](https://github.com/gaphex) and Aleksandr Abramov: [Github](https://github.com/Ab1992ao), [Kaggle Competitions Master](https://www.kaggle.com/andrilko)
++ by Denis Antykhov: [Github](https://github.com/gaphex);
++ Aleksandr Abramov: [Github](https://github.com/Ab1992ao), [Kaggle Competitions Master](https://www.kaggle.com/andrilko)
